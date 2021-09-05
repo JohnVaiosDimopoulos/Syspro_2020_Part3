@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Client">
+				<Option output="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 Client"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Client/fast">
+				<Option output="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 Client/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Argument_Data/Argument_Data.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Argument_Data/Argument_Data.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Argument_Manager/Argument_Manager.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Argument_Manager/Argument_Manager.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Socket/Client_Socket.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Socket/Client_Socket.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Thread/Client_Thread.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Thread/Client_Thread.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Generic_List/Generic_List.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Socket_IO_Handler/Socket_IO_Handler.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Socket_IO_Handler/Socket_IO_Handler.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Shared_Data.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Thread_Data.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Thread_Data.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Manager/Thread_Manager.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Manager/Thread_Manager.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Wrapper/Thread_Wrapper.h">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/main/main.cpp">
+			<Option target="Client"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

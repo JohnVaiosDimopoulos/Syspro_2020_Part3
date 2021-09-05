@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Socket/Client_Socket.cpp
+arpa/inet.h
+-
+iostream
+-
+unistd.h
+-
+Client_Socket.h
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Socket/Client_Socket.h
+../Thread_Data/Shared_Data.h
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Shared_Data.h
+
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Client_Socket/Client_Socket.h
+netinet/in.h
+-
+../Thread_Data/Thread_Data.h
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Thread_Data.h
+../Socket_IO_Handler/Socket_IO_Handler.h
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Socket_IO_Handler/Socket_IO_Handler.h
+
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Socket_IO_Handler/Socket_IO_Handler.h
+string
+-
+
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Shared_Data.h
+mutex
+-
+condition_variable
+-
+
+/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Client/Thread_Data/Thread_Data.h
+string
+-
+

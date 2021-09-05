@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Server"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server">
+				<Option output="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Server/fast">
+				<Option output="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 Server/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Argument_Data/Argument_Data.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Argument_Data/Argument_Data.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Argument_Manager/Argument_Manager.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Argument_Manager/Argument_Manager.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Circular_Buffer/Circular_Buffer.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Circular_Buffer/Circular_Buffer.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Date/Date.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Date/Date.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Generic_List/Generic_List.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Preparator/Preparator.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Preparator/Preparator.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Executor.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Executor.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Disease_Frequency/Disease_Frequency.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Disease_Frequency/Disease_Frequency.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Num_Patient_Admissions/Num_Patient_Admissions.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Num_Patient_Admissions/Num_Patient_Admissions.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Num_Patient_Discharges/Num_Patient_Discharges.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Num_Patient_Discharges/Num_Patient_Discharges.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Query_Handler.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Search_Patient_Record/Search_Patient_Record.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Search_Patient_Record/Search_Patient_Record.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Topk_Age/Topk_Age.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Query_Executor/Query_Handler/Topk_Age/Topk_Age.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Server_Thread/Server_Thread.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Server_Thread/Server_Thread.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Shared_Data/Shared_Data.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Socket/Socket.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Socket/Socket.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Socket_Handler/Socket_Handler.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Socket_Handler/Socket_Handler.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Socket_IO_Handler/Socket_IO_Handler.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Socket_IO_Handler/Socket_IO_Handler.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Stats_Reader/Stats_Reader.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Stats_Reader/Stats_Reader.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Thread_Manager/Thread_Manager.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Thread_Manager/Thread_Manager.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Thread_Wrapper/Thread_Wrapper.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Tokenizer/Tokenizer.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Tokenizer/Tokenizer.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Worker_Socket/Worker_Socket.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Worker_Socket/Worker_Socket.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Worker_Socket_List/Worker_Socket_List.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/Worker_Socket_List/Worker_Socket_List.h">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/main/main.cpp">
+			<Option target="Server"/>
+		</Unit>
+		<Unit filename="/home/supergohan/Desktop/Di/8th_Semester/Sys_Pro/Proj_3/Server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
